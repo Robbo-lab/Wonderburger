@@ -4,6 +4,7 @@ top bun
 
 Mustard
 
-Burger Patty (Roberts addon)
+# Robs addition
+Burger Patty
 
 bottom bun
