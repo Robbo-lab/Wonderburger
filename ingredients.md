@@ -6,4 +6,8 @@ Mustard
 
 Burger Patty (Roberts addon)
 
+# Johns 2nd addition
+
+Mayonnaise
+
 bottom bun
