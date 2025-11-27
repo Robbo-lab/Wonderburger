@@ -1,0 +1,7 @@
+# Ignore build directories
+dist/
+build/
+ 
+# Ignore minified and compiled files
+*.min.js
+*.min.css
